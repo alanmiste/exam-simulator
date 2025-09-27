@@ -1,0 +1,5 @@
+{
+  "name": "Exam Simulator",
+  "description": "An exam training application that simulates a 40-question multiple-choice exam with a 30-minute time limit. Users can answer questions, view correct answers, and receive a final score upon completion.",
+  "requestFramePermissions": []
+}
