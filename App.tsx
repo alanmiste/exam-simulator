@@ -137,6 +137,7 @@ const App: React.FC = () => {
                 )}
               </footer>
             </div>
+            <p className="text-center text-gray-300 py-6">Follow me: @AlanMiste</p>
           </div>
         );
       case 'finished':
